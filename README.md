@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phan Đăng Nhân
-* Student ID: BI12-336
-* Student Group ID: Not-for-now
+* Student Name: Đỗ Hữu Nam
+* Student ID: BI12-305
+* Student Group ID: 
