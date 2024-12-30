@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Đỗ Hữu Nam
 * Student ID: BI12-305
-* Student Group ID: 
+* Student Group ID: 14
